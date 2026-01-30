@@ -1,0 +1,12 @@
+{
+  "schema": "./drizzle/schema.ts",
+  "out": "./drizzle/migrations",
+  "driver": "mysql2",
+  "dbCredentials": {
+    "host": "localhost",
+    "user": "root",
+    "password": "Acesso@123",
+    "database": "App_Web",
+    "port": 3306
+  }
+}
